@@ -10,6 +10,7 @@ Why would you ever want to use this? Well, anyway.
 git clone https://github.com/Natashi/ts-test-merge
 cd ts-test-merge
 
+npm install
 npm run build
 npm test
 ```
