@@ -1,0 +1,20 @@
+{
+	"name": "ts-test-merge",
+	"version": "0.0.1",
+	"description": "TypeScript test",
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha",
+		"build": "tsc"
+	},
+	"keywords": [],
+	"author": "Natashi",
+	"license": "",
+	"devDependencies": {
+		"@types/chai": "^4.3.4",
+		"@types/mocha": "^10.0.1",
+		"chai": "^4.3.7",
+		"mocha": "^10.2.0",
+		"typescript": "^4.9.4"
+	}
+}
